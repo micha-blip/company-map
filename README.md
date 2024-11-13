@@ -8,4 +8,8 @@ If you know about any companies, startups, or organizations which are not includ
 
 
 Michał 
+
 Career Development Initiative 2024
+
+![alt text](https://github.com/micha-blip/company-map/CDI.png?raw=true)
+
