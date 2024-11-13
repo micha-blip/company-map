@@ -11,5 +11,5 @@ Michał
 
 Career Development Initiative 2024
 
-![alt text](https://github.com/micha-blip/company-map/CDI.png)
+![screenshot](CDI.png)
 
