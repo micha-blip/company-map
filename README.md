@@ -2,6 +2,7 @@ This project aims to cluster the descriptions of life-science-related companies 
 If the companies describe themselves similarly, they should be closer. This is sometimes the case, as in the case of blood-tumor diagnostics or radiotherapeutics. 
 Some companies are very vague about their roles, which affects the embedding.
 
+Click here to check it out:
 [Berlin Company Map](https://micha-blip.github.io/company-map/index.html)
 
 If you know about any companies, startups, or organizations which are not included in this list, please let me know!
