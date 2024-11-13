@@ -7,4 +7,5 @@ Some companies are very vague about their roles, which affects the embedding.
 If you know about any companies, startups, or organizations which are not included in this list, please let me know!
 
 
-Michał - CDI 2024
+Michał 
+Career Development Initiative 2024
