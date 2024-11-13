@@ -1,2 +1,2 @@
-[Your Website Name](https://micha-blip.github.io/company-map/index.html)
+[Berlin Company Map](https://micha-blip.github.io/company-map/index.html)
 
