@@ -5,7 +5,7 @@ Some companies are very vague about their roles, which affects the embedding.
 Click here to check it out:
 [Berlin Company Map](https://micha-blip.github.io/company-map/index.html)
 
-If you know about any companies, startups, or organizations which are not included in this list, please let me know!
+If you know about any companies, startups, or organizations that are not included in this list, please let me know!
 
 
 Michał 
