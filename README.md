@@ -14,3 +14,7 @@ Career Development Initiative 2024
 
 ![screenshot](CDI.png)
 
+
+
+24-11-2024 Added 10 more companies to the database and updated the embedding
+
